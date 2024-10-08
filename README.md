@@ -6,5 +6,6 @@
 - 자바, JVM, JDK, JRE
   - branch: ❌
   - tistory: https://20240228.tistory.com/317
+- JVM 구조 
 
 ## 더 자바, 애플리케이션을 테스트하는 다양한 방법
