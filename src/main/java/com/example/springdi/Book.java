@@ -1,5 +1,6 @@
 package com.example.springdi;
 
+@MyAnnotation
 public class Book {
     private String A = "a";
     private static String B = "BOOK";
