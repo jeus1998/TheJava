@@ -17,6 +17,12 @@
   - branch: 바이트코드조작_사용 
 - JavaAgent
   - branch: 바이트코드조작_JavaAgent
-- 바이트 코드 조작 전체 정리 tistory: https://20240228.tistory.com/321 
-  
+- 바이트 코드 조작 전체 정리 tistory: https://20240228.tistory.com/321
+
+### 리플렉션 
+- 리플렉션 API 1부: 클래스 정보 조회
+  - branch: 리플렉션_API1_클래스정보조회 
+- 애노테이션과 리플렉션
+  - branch: 리플렉션_애노테이션 
+- 리플렉션 전체 정리 tistory: 
 ## 더 자바, 애플리케이션을 테스트하는 다양한 방법
