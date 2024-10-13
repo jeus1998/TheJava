@@ -1,28 +1,16 @@
 package com.example.springdi;
 
-@MyAnnotation
 public class Book {
-    private String A = "a";
-    private static String B = "BOOK";
-    private static final String C = "BOOK";
-    public String D = "d";
-    protected String E = "e";
-    public Book(){
-
+    public static String A = "A";
+    private String B = "B";
+    public Book() {}
+    public Book(String b){
+        B = b;
     }
-    public Book(String a, String d, String e){
-        this.A = a;
-        this.D = d;
-        this.E = e;
+    public void c(){
+        System.out.println("C");
     }
-    private void f(){
-        System.out.println("F");
+    public int sum(int left, int right){
+        return left + right;
     }
-    public void g(){
-        System.out.println("g");
-    }
-    public int h(){
-        return 100;
-    }
-
 }
