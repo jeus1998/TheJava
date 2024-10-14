@@ -1,4 +1,4 @@
 package com.example.springdi;
 
-public interface MyInterface {
+public class BookRepository {
 }
