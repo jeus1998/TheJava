@@ -1,5 +1,6 @@
 package com.example.springdi;
-
-public interface BookService {
-    public void rent(Book book);
+public class BookService {
+    public void rent(Book book){
+        System.out.println("rent: " + book.getTitle());
+    }
 }
